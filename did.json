@@ -6,17 +6,17 @@
   "id": "did:web:dtitkaio.github.io:kai-test",
   "verificationMethod": [
     {
-      "id": "did:web:dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2",
+      "id": "did:web:dtitkaio.github.io:kai-test#90de4450a46569b9ec265cbe7f4a5518972664cef09b6b491232d33ef733328f",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:dtitkaio.github.io:kai-test",
-      "publicKeyHex": "f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2"
+      "publicKeyHex": "90de4450a46569b9ec265cbe7f4a5518972664cef09b6b491232d33ef733328f"
     }
   ],
   "authentication": [
-    "did:web:dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2"
+    "did:web:dtitkaio.github.io:kai-test#90de4450a46569b9ec265cbe7f4a5518972664cef09b6b491232d33ef733328f"
   ],
   "assertionMethod": [
-    "did:web:dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2"
+    "did:web:dtitkaio.github.io:kai-test#90de4450a46569b9ec265cbe7f4a5518972664cef09b6b491232d33ef733328f"
   ],
   "service": []
 }
