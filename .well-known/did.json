@@ -3,20 +3,20 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/jws-2020/v1"
   ],
-  "id": "did:web:Dtitkaio.github.io:kai-test",
+  "id": "did:web:dtitkaio.github.io:kai-test",
   "verificationMethod": [
     {
-      "id": "did:web:Dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2",
+      "id": "did:web:dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2",
       "type": "Ed25519VerificationKey2018",
-      "controller": "did:web:Dtitkaio.github.io:kai-test",
+      "controller": "did:web:dtitkaio.github.io:kai-test",
       "publicKeyHex": "f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2"
     }
   ],
   "authentication": [
-    "did:web:Dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2"
+    "did:web:dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2"
   ],
   "assertionMethod": [
-    "did:web:Dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2"
+    "did:web:dtitkaio.github.io:kai-test#f8ead3f6bb9d6a2ad00e489ef3b39c19e248692bdcd7a8e36f3eb7f023ee2ac2"
   ],
   "service": []
 }
