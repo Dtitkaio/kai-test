@@ -9,7 +9,11 @@
       "id": "did:web:dtitkaio.github.io:kai-test#90de4450a46569b9ec265cbe7f4a5518972664cef09b6b491232d33ef733328f",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:dtitkaio.github.io:kai-test",
-      "publicKeyHex": "90de4450a46569b9ec265cbe7f4a5518972664cef09b6b491232d33ef733328f"
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "kN5EUKRlabnsJly-f0pVGJcmZM7wm2tJEjLTPvczMo8"
+      }
     }
   ],
   "authentication": [
