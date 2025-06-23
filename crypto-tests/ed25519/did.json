@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:dtitkaio.github.io:kai-test:crypto-tests:ed25519",
+  "verificationMethod": [
+    {
+      "id": "did:web:dtitkaio.github.io:kai-test:crypto-tests:ed25519#dd05abca9ae88db367f1a87cc60f7dd502b1c4a80441a4641f238a0394fb1fd3",
+      "type": "Ed25519VerificationKey2018",
+      "controller": "did:web:dtitkaio.github.io:kai-test:crypto-tests:ed25519",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "3QWryprojbNn8ah8xg991QKxxKgEQaRkHyOKA5T7H9M"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:dtitkaio.github.io:kai-test:crypto-tests:ed25519#dd05abca9ae88db367f1a87cc60f7dd502b1c4a80441a4641f238a0394fb1fd3"
+  ],
+  "assertionMethod": [
+    "did:web:dtitkaio.github.io:kai-test:crypto-tests:ed25519#dd05abca9ae88db367f1a87cc60f7dd502b1c4a80441a4641f238a0394fb1fd3"
+  ],
+  "service": []
+}
