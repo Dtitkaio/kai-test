@@ -1,3 +1,26 @@
 {
-    "id": "did:web:dtitkaio.github.io:crypto-tests:secp256r1"
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "did:web:dtitkaio.github.io:kai-test:crypto-tests:secp256r1",
+    "verificationMethod": [
+        {
+        "id": "did:web:dtitkaio.github.io:kai-test:crypto-tests:secp256r1#02a76cdda3c67c605655a1fb6ea8ebe93db186dc4eda5054fadccf7379f1356d2f",
+        "type": "JsonWebKey2020",
+        "controller": "did:web:dtitkaio.github.io:kai-test:crypto-tests:secp256r1",
+        "publicKeyJwk": {
+            "kty": "EC",
+            "crv": "P-256",
+            "x": "p2zdo8Z8YFZVoftuqOvpPbGG3E7aUFT63M9zefE1bS8"
+        }
+        }
+    ],
+    "authentication": [
+        "did:web:dtitkaio.github.io:kai-test:crypto-tests:secp256r1#02a76cdda3c67c605655a1fb6ea8ebe93db186dc4eda5054fadccf7379f1356d2f"
+    ],
+    "assertionMethod": [
+        "did:web:dtitkaio.github.io:kai-test:crypto-tests:secp256r1#02a76cdda3c67c605655a1fb6ea8ebe93db186dc4eda5054fadccf7379f1356d2f"
+    ],
+    "service": []
 }

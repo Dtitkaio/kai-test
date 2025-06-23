@@ -7,7 +7,7 @@
   "verificationMethod": [
     {
       "id": "did:web:dtitkaio.github.io:kai-test:crypto-tests:ed25519#dd05abca9ae88db367f1a87cc60f7dd502b1c4a80441a4641f238a0394fb1fd3",
-      "type": "Ed25519VerificationKey2018",
+      "type": "JsonWebKey2020",
       "controller": "did:web:dtitkaio.github.io:kai-test:crypto-tests:ed25519",
       "publicKeyJwk": {
         "kty": "OKP",
